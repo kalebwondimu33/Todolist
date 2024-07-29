@@ -27,3 +27,27 @@ Click the "Delete" button next to the task you want to remove. The task will be 
 -Clone the Repository or download the zip file
 -cd to WEBTRUCK
 -open the index.html file
+
+                              screen shoot of the pages
+                              
+
+### home screen
+
+![Main Screen](images/homepage.png)
+
+Description: The home page when you open at first.
+
+### Task add
+
+![Task with Delete Button](images/addtask.png)
+
+Description: the image shows the task after added with its delete button
+
+### Editing a Task
+
+![Editing a Task](images/edittask.png)
+
+Description: the image shows  the task after edited
+
+
+
